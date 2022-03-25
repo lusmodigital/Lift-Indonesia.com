@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://lift-indonesia.com
+Data file = /home/liftindonesia/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparkerblog.wordpress.xml
+Widget file = /home/liftindonesia/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-widgets.wie
+Customizer file = /home/liftindonesia/public_html/wp-content/themes/sparker/inc/dummy-data/dummy-data-files/elementor/sparker-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+ezy-featured-post - No Title - Site does not support widget
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - ABOUT ME - Imported
+
+Footer 2 : 
+
+Pages - QUICK LINKS - Imported
+
+Footer 3 : 
+
+Text - GET IN TOUCH - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
